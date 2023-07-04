@@ -13,7 +13,7 @@ Desenvolvimento de um componente de ajustes de iluminação.<br/>
 <br>
 
 <p align="center">
-  <img src=".github/Ajustes de Iluminação.jpg" width="50%">
+  <img src=".github/Ajustes de Iluminação.jpg" width="30%">
 </p>
 
 <br>
